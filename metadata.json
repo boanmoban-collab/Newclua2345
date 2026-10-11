@@ -1,0 +1,6 @@
+{
+  "name": "Newcal 2000",
+  "description": "نظام إدارة العيادة Newcal 2000",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
